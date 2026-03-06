@@ -1,4 +1,4 @@
-- # 👋 Hi, I’m Rashmi Purandare
+ # 👋 Hi, I’m Rashmi Purandare
 - 👀 I am interested in technology and personal development
 - 🌱 I am currently learning full-stack development, algorithms, and database design as part of my MS in Computer Science
 - 💞️ I am looking to collaborate on software development projects
