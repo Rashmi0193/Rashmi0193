@@ -6,6 +6,7 @@
 - 😄 Pronouns: She/Her
   
 Contributions:
+
 • Saayam for All – Frontend Developer
 
 • BirthdayMessaging.io – Software Engineering Intern 
